@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Lion-Tech-Web-App</finalName>
+		<finalName>Lion-Tech-Web-App-V1</finalName>
 		
 		<plugins>
 			<plugin>
